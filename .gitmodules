@@ -1,1 +1,3 @@
-
+[submodule "timvandeusen/preworkstudyguide"]
+    path = timvandeusen/preworkstudyguide
+    url = https://github.com/timvandeusen/preworkstudyguide
