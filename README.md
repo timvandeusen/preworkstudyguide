@@ -1,13 +1,13 @@
 # <Prework Study Guide>
 
-## Study guide to help with coding throughout the bootcamp.
+## Study guide to help with coding throughout the course.
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What was your motivation? Career change.
+- Why did you build this project? I built this project to give me useful tips that will help me later.
 - What problem does it solve?
-- What did you learn?
+- What did you learn? I learned the steps and processes to build a webpage.
 
 
 
